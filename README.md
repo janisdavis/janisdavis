@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there <img src= "https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc" width= "50px">, My name is Janis!
 
 <!--
 **janisdavis/janisdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
