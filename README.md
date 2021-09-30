@@ -34,4 +34,4 @@ My Skill list:
 🔹 HTML & CSS, VueJS, TypeScript & NodeJS and Java basics
 
 
-If you want to contact me, feel free to visit my LinkedIn profile.
+If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/Jānis-Dāvis/) profile.
