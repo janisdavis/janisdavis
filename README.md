@@ -1,4 +1,4 @@
-Hi there <img src="https://media2.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e476r6j40mpx42h4kknccyka60uc4am2hvz6848ewnv&rid=giphy.gif&ct=g" width="60px">, My name is Janis!
+Hi there <img src="https://media2.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e476r6j40mpx42h4kknccyka60uc4am2hvz6848ewnv&rid=giphy.gif&ct=g" width="90px">, My name is Janis!
 
 <!--
 **janisdavis/janisdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
