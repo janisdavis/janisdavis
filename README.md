@@ -1,4 +1,4 @@
-Hi there <img src="https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM" width="90px">, My name is Janis!
+Hi there <img src="https://media2.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e4717o9vy480cvz7viku15layt757th4b03oo5829lg&rid=giphy.gif&ct=g" width="90px">, My name is Janis!
 
 <!--
 **janisdavis/janisdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
